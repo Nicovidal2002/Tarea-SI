@@ -20,7 +20,7 @@ if (isNaN(edad)) {
     categoria = "adulto";
     break;
     case edad >= 65 && edad <= 100:
-    categoria = "xubilado";
+    categoria = "jubilado";
     break;
     default:
     alert("Idade fora do rango permitido.");
