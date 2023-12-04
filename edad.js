@@ -8,7 +8,7 @@ if (isNaN(edad)) {
     let categoria;
     switch (true) {
     case edad >= 0 && edad <= 12:
-    categoria = "neno";
+    categoria = "niño";
     break;
     case edad >= 13 && edad <= 18:
     categoria = "adolescente";
