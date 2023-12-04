@@ -25,7 +25,7 @@ if (isNaN(edad)) {
     default:
     alert("Idade fora do rango permitido.");
 }
-if (categoria) {{
+if (categoria) {
 alert("Eres un " + categoria + ".");
 }
 }
