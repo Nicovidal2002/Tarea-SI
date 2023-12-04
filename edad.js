@@ -3,7 +3,7 @@ edad = parseInt(edad);
 
 
 if (isNaN(edad)) {
-    alert("Por favor, introduce un número válido para a idade.");
+    alert("Desculpa, poña un número válido para a idade.");
 } else {
     let categoria;
     switch (true) {
