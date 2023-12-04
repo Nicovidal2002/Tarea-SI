@@ -14,7 +14,7 @@ if (isNaN(edad)) {
     categoria = "adolescente";
     break;
     case edad >= 19 && edad <= 30:
-    categoria = "joven";
+    categoria = "joven"
     break;
     case edad >= 31 && edad <= 64:
     categoria = "adulto";
@@ -25,7 +25,7 @@ if (isNaN(edad)) {
     default:
     alert("Idade fora do rango permitido.");
 }
-if (categoria) {
+if (categoria) 
 alert("Eres un " + categoria + ".");
 }
 }
