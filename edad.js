@@ -17,7 +17,7 @@ if (isNaN(edad)) {
     categoria = "joven";
     break;
     case edad >= 31 && edad <= 64:
-    categoria = "adulto";
+    categoria = "mayor";
     break;
     case edad >= 65 && edad <= 100:
     categoria = "anciano";
